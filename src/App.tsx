@@ -11,7 +11,7 @@ const App: React.FC = () => {
     <div>
 
       {/* <RenderTable /> */}
-      <h3 className="ml-10">Meetings/Design</h3>
+      <h3 className="ml-10">Meetings</h3>
       <br/><a href="/about">Link to About Page</a>
       <hr/>
       <p>&#8226; New Booking Request</p>
